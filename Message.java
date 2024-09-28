@@ -39,7 +39,7 @@ public class Message {
     }
   
     
-    public void setActions(ArrayList<String> customerlist){
+    public void setAdactions(ArrayList<String> customerlist){
        
         int rnd = new Random().nextInt(customerlist.size());
         if (rnd%2==0){   
