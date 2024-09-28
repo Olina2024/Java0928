@@ -1,4 +1,3 @@
-
 import java.util.ArrayList;
 //import java.util.TimerTask;
 
@@ -66,7 +65,7 @@ public class listcustomerInformation  {
                 display.add(information.getMessages());
                 information.setCustomerlist(display);                                                                                                                                                                            
             }    
-            action.setActions(display); 
+            action.setAdactions(display); 
             String label1text= action.getCustomernamn(); 
             String label2text=  action.getMessageDisplay();
             f.setLabel1text(label1text);
