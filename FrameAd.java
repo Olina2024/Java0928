@@ -1,6 +1,6 @@
 import javax.swing.*;
 import java.awt.*;
-public class FrameAD extends listcustomerInformation{
+public class FrameAD {
     private String label1text;
     private String label2text;
    // private String button;
