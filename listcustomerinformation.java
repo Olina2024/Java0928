@@ -1,3 +1,4 @@
+
 import java.util.ArrayList;
 //import java.util.TimerTask;
 
@@ -53,7 +54,7 @@ public class listcustomerInformation  {
         ArrayList <String> display= new ArrayList<>();
         Message action=new Message();
       
-        Show  f = new Show();
+        FrameAD  f = new FrameAD();
         f.setFrame();      
       
         while(true){    
